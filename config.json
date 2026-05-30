@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatoreerify",
+        "uuid": 3615740,
+        "checksum": "m0v5np"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
